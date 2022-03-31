@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Bhkti
+- 👀 I’m interested in Hring Platform Engineers, Software developers in Backend (Java (11), Microservices, MongoDB, Spring boot), Frontend (Angular 8+), Platform Engineers
+- 🌱 I’m currently learning to hire from GitHub
+- 💞️ I’m looking to collaborate simplifing Technical hirings with the help of Platforms like I-Mocha
+- 📫 How to reach me Bhkti/@Serrala.md
+- Below are the link for positions we are hiring for https://serrala.aviahire.com/all-openings
